@@ -20,5 +20,9 @@ Saved
 .idea/**/dictionaries
 .idea/**/shelf
 
-
+# Unreal file created when changing editors
 Config/DefaultEditorSettings\.ini
+
+# CMake
+cmake-build-*/
+CMakeLists\.txt
